@@ -1,0 +1,7 @@
+Module:
+In Python Module are simply files with the ".py" extension. A module is a file containing code written by someone and which can be imported
+and used in our progress.
+
+There are two types of modules:
+a. Built in modules (These are pre installed in python)
+b. External Modules (We need to install those using pip)
